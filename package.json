@@ -1,0 +1,10 @@
+{
+  "name": "treino-modulos",
+  "version": "1.0.0",
+  "description": "Treino de módulos ES6",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
